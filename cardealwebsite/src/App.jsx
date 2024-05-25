@@ -19,7 +19,6 @@ function App() {
       <Sellers/>
       <Auction/>
       <Review/>
-      <Footer/>
     </div>
   )
 }
